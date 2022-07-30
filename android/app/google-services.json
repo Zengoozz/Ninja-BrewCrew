@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127438843974",
+    "project_id": "ninja-brew-app-1feba",
+    "storage_bucket": "ninja-brew-app-1feba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127438843974:android:a02347c0762f5adf1ada47",
+        "android_client_info": {
+          "package_name": "com.zengo.firebase_tutorial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127438843974-ua6gqn1ggeri4ajae0g1pf4k73ot84tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZY79iWAj5C4HWhWd5Hc4-Xci0kZH5WM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127438843974-ua6gqn1ggeri4ajae0g1pf4k73ot84tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
